@@ -1,7 +1,7 @@
 # Sintaxis y Semántica de los Lenguajes
 Repositorio para la cursada de Sintaxis y Semántica de los Lenguajes.
-• Curso: K2051
-• Año de cursada: 2023.
-• Legajo: 176.752-5.
-• Apellido: Sicolo.
-• Nombre: Nicolás.
+1. Curso: K2051
+2. Año de cursada: 2023.
+3. Legajo: 176.752-5.
+4. Apellido: Sicolo.
+5. Nombre: Nicolás.
